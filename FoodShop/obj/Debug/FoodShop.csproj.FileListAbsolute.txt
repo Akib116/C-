@@ -1,0 +1,76 @@
+D:\C#\FoodShop\obj\Debug\FoodShop.csprojAssemblyReference.cache
+D:\C#\FoodShop\obj\Debug\FoodShop.Form1.resources
+D:\C#\FoodShop\obj\Debug\FoodShop.Properties.Resources.resources
+D:\C#\FoodShop\obj\Debug\FoodShop.csproj.GenerateResource.cache
+D:\C#\FoodShop\obj\Debug\FoodShop.csproj.CoreCompileInputs.cache
+D:\C#\FoodShop\bin\Debug\FoodShop.exe.config
+D:\C#\FoodShop\bin\Debug\FoodShop.exe
+D:\C#\FoodShop\bin\Debug\FoodShop.pdb
+D:\C#\FoodShop\obj\Debug\FoodShop.exe
+D:\C#\FoodShop\obj\Debug\FoodShop.pdb
+D:\C#\FoodShop\obj\Debug\FoodShop.Form2.resources
+D:\C#\FoodShop\obj\Debug\FoodShop.Form3.resources
+D:\OOP2 C#\FoodShop\bin\Debug\FoodShop.exe.config
+D:\OOP2 C#\FoodShop\bin\Debug\FoodShop.exe
+D:\OOP2 C#\FoodShop\bin\Debug\FoodShop.pdb
+D:\OOP2 C#\FoodShop\obj\Debug\FoodShop.csprojAssemblyReference.cache
+D:\OOP2 C#\FoodShop\obj\Debug\FoodShop.Form1.resources
+D:\OOP2 C#\FoodShop\obj\Debug\FoodShop.Form3.resources
+D:\OOP2 C#\FoodShop\obj\Debug\FoodShop.Properties.Resources.resources
+D:\OOP2 C#\FoodShop\obj\Debug\FoodShop.csproj.GenerateResource.cache
+D:\OOP2 C#\FoodShop\obj\Debug\FoodShop.csproj.CoreCompileInputs.cache
+D:\OOP2 C#\FoodShop\obj\Debug\FoodShop.exe
+D:\OOP2 C#\FoodShop\obj\Debug\FoodShop.pdb
+D:\OOP2 C#\FoodShop\obj\Debug\FoodShop.Form4.resources
+D:\OOP2 C#\Project_FoodShop\FoodShop\obj\Debug\FoodShop.csprojAssemblyReference.cache
+D:\OOP2 C#\Project_FoodShop\FoodShop\obj\Debug\FoodShop.Form1.resources
+D:\OOP2 C#\Project_FoodShop\FoodShop\obj\Debug\FoodShop.Form3.resources
+D:\OOP2 C#\Project_FoodShop\FoodShop\obj\Debug\FoodShop.Form4.resources
+D:\OOP2 C#\Project_FoodShop\FoodShop\obj\Debug\FoodShop.Form5.resources
+D:\OOP2 C#\Project_FoodShop\FoodShop\obj\Debug\FoodShop.Properties.Resources.resources
+D:\OOP2 C#\Project_FoodShop\FoodShop\obj\Debug\FoodShop.csproj.GenerateResource.cache
+D:\OOP2 C#\Project_FoodShop\FoodShop\obj\Debug\FoodShop.csproj.CoreCompileInputs.cache
+D:\OOP2 C#\Project_FoodShop\FoodShop\obj\Debug\FoodShop.exe
+D:\OOP2 C#\Project_FoodShop\FoodShop\obj\Debug\FoodShop.pdb
+D:\OOP2 C#\Project_FoodShop\FoodShop\bin\Debug\FoodShop.exe.config
+D:\OOP2 C#\Project_FoodShop\FoodShop\bin\Debug\FoodShop.exe
+D:\OOP2 C#\Project_FoodShop\FoodShop\bin\Debug\FoodShop.pdb
+D:\OOP2 C#\Project_FoodShop_update\FoodShop\bin\Debug\FoodShop.exe.config
+D:\OOP2 C#\Project_FoodShop_update\FoodShop\bin\Debug\FoodShop.exe
+D:\OOP2 C#\Project_FoodShop_update\FoodShop\bin\Debug\FoodShop.pdb
+D:\OOP2 C#\Project_FoodShop_update\FoodShop\obj\Debug\FoodShop.csprojAssemblyReference.cache
+D:\OOP2 C#\Project_FoodShop_update\FoodShop\obj\Debug\FoodShop.Form1.resources
+D:\OOP2 C#\Project_FoodShop_update\FoodShop\obj\Debug\FoodShop.Form3.resources
+D:\OOP2 C#\Project_FoodShop_update\FoodShop\obj\Debug\FoodShop.Form4.resources
+D:\OOP2 C#\Project_FoodShop_update\FoodShop\obj\Debug\FoodShop.Form5.resources
+D:\OOP2 C#\Project_FoodShop_update\FoodShop\obj\Debug\FoodShop.Properties.Resources.resources
+D:\OOP2 C#\Project_FoodShop_update\FoodShop\obj\Debug\FoodShop.csproj.GenerateResource.cache
+D:\OOP2 C#\Project_FoodShop_update\FoodShop\obj\Debug\FoodShop.csproj.CoreCompileInputs.cache
+D:\OOP2 C#\Project_FoodShop_update\FoodShop\obj\Debug\FoodShop.exe
+D:\OOP2 C#\Project_FoodShop_update\FoodShop\obj\Debug\FoodShop.pdb
+D:\OOP2 C#\Project_FoodShop_24\FoodShop\bin\Debug\FoodShop.exe.config
+D:\OOP2 C#\Project_FoodShop_24\FoodShop\bin\Debug\FoodShop.exe
+D:\OOP2 C#\Project_FoodShop_24\FoodShop\bin\Debug\FoodShop.pdb
+D:\OOP2 C#\Project_FoodShop_24\FoodShop\obj\Debug\FoodShop.csprojAssemblyReference.cache
+D:\OOP2 C#\Project_FoodShop_24\FoodShop\obj\Debug\FoodShop.Form1.resources
+D:\OOP2 C#\Project_FoodShop_24\FoodShop\obj\Debug\FoodShop.Form3.resources
+D:\OOP2 C#\Project_FoodShop_24\FoodShop\obj\Debug\FoodShop.Form4.resources
+D:\OOP2 C#\Project_FoodShop_24\FoodShop\obj\Debug\FoodShop.Form5.resources
+D:\OOP2 C#\Project_FoodShop_24\FoodShop\obj\Debug\FoodShop.Properties.Resources.resources
+D:\OOP2 C#\Project_FoodShop_24\FoodShop\obj\Debug\FoodShop.csproj.GenerateResource.cache
+D:\OOP2 C#\Project_FoodShop_24\FoodShop\obj\Debug\FoodShop.csproj.CoreCompileInputs.cache
+D:\OOP2 C#\Project_FoodShop_24\FoodShop\obj\Debug\FoodShop.exe
+D:\OOP2 C#\Project_FoodShop_24\FoodShop\obj\Debug\FoodShop.pdb
+F:\Project_FoodShop_24final_project2409\FoodShop\bin\Debug\FoodShop.exe.config
+F:\Project_FoodShop_24final_project2409\FoodShop\bin\Debug\FoodShop.exe
+F:\Project_FoodShop_24final_project2409\FoodShop\bin\Debug\FoodShop.pdb
+F:\Project_FoodShop_24final_project2409\FoodShop\obj\Debug\FoodShop.csprojAssemblyReference.cache
+F:\Project_FoodShop_24final_project2409\FoodShop\obj\Debug\FoodShop.Form1.resources
+F:\Project_FoodShop_24final_project2409\FoodShop\obj\Debug\FoodShop.Form3.resources
+F:\Project_FoodShop_24final_project2409\FoodShop\obj\Debug\FoodShop.Form4.resources
+F:\Project_FoodShop_24final_project2409\FoodShop\obj\Debug\FoodShop.Form5.resources
+F:\Project_FoodShop_24final_project2409\FoodShop\obj\Debug\FoodShop.Properties.Resources.resources
+F:\Project_FoodShop_24final_project2409\FoodShop\obj\Debug\FoodShop.csproj.GenerateResource.cache
+F:\Project_FoodShop_24final_project2409\FoodShop\obj\Debug\FoodShop.csproj.CoreCompileInputs.cache
+F:\Project_FoodShop_24final_project2409\FoodShop\obj\Debug\FoodShop.exe
+F:\Project_FoodShop_24final_project2409\FoodShop\obj\Debug\FoodShop.pdb
